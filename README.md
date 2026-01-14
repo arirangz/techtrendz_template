@@ -7,7 +7,6 @@
     * admin@test.com, mot de passe : test (à ne pas utiliser sur un site en production :) )
 
 * Modifiez le fichier lib/config.php en y ajoutant les données de votre base de données.
-* Dans le terminal de vscode, exécuter la commande `php -S localhost:8000`
 * Assurez-vous que le site fonctionne en local.
 
 ## Contexte
